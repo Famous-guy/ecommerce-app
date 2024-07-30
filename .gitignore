@@ -4,3 +4,4 @@ node_modules/
 # Environment variables
 .env
 
+#http://localhost:8765/printful/store/produ
